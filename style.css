@@ -1,0 +1,371 @@
+body {
+  overflow-x: hidden;
+}
+
+#mainDiv {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1077px;
+  background: #ffffff;
+}
+
+#header {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 80px;
+  background: white;
+  box-shadow: 0px 3px 21px #00000010;
+  z-index: 1;
+  position: relative;
+}
+
+#imgRight {
+  top: 475px;
+  left: 1805px;
+  width: 184px;
+  height: 264px;
+  position: absolute;
+  z-index: 1;
+}
+
+#imgLeft {
+  top: 138px;
+  left: -70px;
+  width: 184px;
+  height: 264px;
+  position: absolute;
+}
+
+#imgBackPuntos {
+  position: absolute;
+  top: 652px;
+  left: 317px;
+  width: 81px;
+  height: 85px;
+  z-index: 1;
+}
+
+#divFondoAzulMarino {
+  top: 602px;
+  width: 1920px;
+  height: 270px;
+  background: #00326c;
+  position: absolute;
+}
+
+#imgJSD {
+  margin-top: 8px;
+  margin-left: 250px;
+  width: 180px;
+  height: 65px;
+}
+
+#imgLogoJal {
+  margin-top: 4px;
+  margin-left: 70px;
+  width: 180px;
+  height: 65px;
+}
+
+#aCalculadora {
+  top: 35px;
+  left: 1296px;
+  width: 108px;
+  height: 16px;
+  text-decoration: none;
+  text-align: left;
+  letter-spacing: 0px;
+  position: absolute;
+}
+
+#iconAvisoPrivacidad {
+  top: 37px;
+  left: 1453px;
+  width: 19px;
+  height: 19px;
+  letter-spacing: 0px;
+  position: absolute;
+}
+
+#aAvisoPrivacidad {
+  top: 35px;
+  left: 1477px;
+  width: 166px;
+  height: 16px;
+  text-align: left;
+  letter-spacing: 0px;
+  text-decoration: none;
+  position: absolute;
+}
+
+#centerDiv {
+  top: 18px;
+  left: 441px;
+  width: 1029px;
+  height: 769px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0px 3px 15px #00000027;
+  position: absolute;
+}
+
+#divPrincipal {
+  top: 106px;
+  width: 666px;
+  height: 80px;
+  text-align: center;
+  color: #015db1;
+  letter-spacing: 0px;
+  position: relative;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#divCentral {
+  width: 700px;
+  top: 160px;
+  height: 200px;
+  position: relative;
+}
+
+#primerDiv {
+  top: 214px;
+  left: 626px;
+  width: 300px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: 0px 3px 8px #0000001a;
+  border-radius: 20px;
+}
+
+#segundoDiv {
+  top: 214px;
+  left: 974px;
+  width: 300px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: 0px 3px 8px #0000001a;
+  border-radius: 20px;
+}
+
+#iconPrev {
+  top: 316px;
+  left: 140px;
+  width: 14px;
+  height: 26px;
+  position: absolute;
+}
+
+#iconNext {
+  top: 316px;
+  left: 877px;
+  width: 14px;
+  height: 26px;
+  position: absolute;
+}
+
+#primerTexto {
+  text-align: left;
+  letter-spacing: 0px;
+  color: #00326c;
+  font-size: 15px;
+  font-weight: bold;
+  position: relative;
+  top: -11px;
+}
+
+#segundoTexto {
+  text-align: left;
+  letter-spacing: 0px;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  position: relative;
+  top: -33px;
+}
+
+#tercerTexto {
+  text-align: left;
+  letter-spacing: 0px;
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  top: -50px;
+}
+
+#cuartoTexto {
+  text-align: left;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 120px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#badgePill {
+  font-style: initial;
+  background-color: #37aefd;
+}
+
+#divFinal {
+  width: 700px;
+  top: 160px;
+  height: 200px;
+  position: relative;
+}
+
+#comenzarAhora {
+  font-size: 28px;
+}
+
+#divFinalSegundoTexto {
+  width: 341px;
+  font-size: 20px;
+  top: 5px;
+  margin-top: -8px;
+}
+
+#linkSegundoTexto {
+  font-style: italic;
+}
+
+#divFinalInputBoton {
+  position: relative;
+  top: 15px;
+}
+
+#txtCURP {
+  box-shadow: 0px 0px 5px #8d8a7d98;
+  border: 0.5px solid #eaedef;
+  border-radius: 4px;
+  height: 45px;
+}
+
+#btnContinuar {
+  background: #015db1;
+  border-radius: 16px;
+  width: 168px;
+  font-size: 15px;
+}
+
+#divFinalTercerTexto {
+  margin-top: 25px;
+  font-size: 14px;
+}
+
+#img4009 {
+  position: relative;
+  top: 837px;
+  left: 125px;
+  width: 152px;
+  height: 63px;
+}
+
+#img4023 {
+  position: relative;
+  top: 841px;
+  left: 222px;
+  width: 161px;
+  height: 44px;
+}
+
+#img3997 {
+  position: relative;
+  top: 840px;
+  left: 292px;
+  width: 191px;
+  height: 87px;
+}
+
+#img3999 {
+  position: relative;
+  top: 837px;
+  left: 353px;
+  width: 191px;
+  height: 87px;
+}
+
+#img4000 {
+  position: relative;
+  top: 834px;
+  left: 372px;
+  width: 191px;
+  height: 87px;
+}
+
+#img4112 {
+  position: relative;
+  top: 834px;
+  left: 388px;
+  width: 219px;
+  height: 87px;
+}
+
+#img5363 {
+  position: relative;
+  top: 834px;
+  left: 439px;
+  width: 219px;
+  height: 87px;
+}
+
+#botonFlotante {
+  position: fixed;
+  top: 98px;
+  left: 1475px;
+  width: 168px;
+  height: 40px;
+}
+
+#pillWhatsapp {
+  font-size: 14px;
+  background: #57bbff;
+}
+
+#iconWhatsapp {
+  font-size: 25px;
+}
+
+#spanWhatsapp {
+  position: relative;
+  top: -4px;
+}
+
+.colorAzul {
+  color: #37aefd;
+}
+
+.colorNaranja {
+  color: #ff6c00;
+}
+
+.cardStyles {
+  box-shadow: 0px 3px 8px #0000001a;
+  border-radius: 25px;
+  border: 0;
+  height: 180px;
+}
+
+hr {
+  width: 71%;
+  position: relative;
+  left: 150px;
+  top: 165px;
+  opacity: 0.1;
+}
+
+@media (max-width: 720px) {
+  #mainDiv {
+    width: 1962px;
+  }
+
+  #header {
+    width: 1962px;
+  }
+
+  #divFondoAzulMarino {
+    width: 1962px;
+  }
+}
